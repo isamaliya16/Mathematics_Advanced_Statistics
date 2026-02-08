@@ -131,5 +131,3 @@ It represents learning from experience.
 - Bayes’ Theorem is a foundation of probabilistic reasoning and AI
 
 ---
-
-📌 *This README is suitable for academic assignments, GitHub repositories, and interview preparation.*
