@@ -1,7 +1,4 @@
-# 📘 Hypothesis Testing – p-Value, Confidence Interval & Errors (Detailed Answers)
-
-This document provides **detailed, well-explained, and professional answers** to important concepts of **hypothesis testing**. The explanations are written in clear academic language, suitable for **theory exams, assignments, viva, and conceptual understanding**.
-
+# 📘 Hypothesis Testing – p-Value, Confidence Interval & Errors
 ---
 
 ## Q.1 Define p-value in your own words and explain its basic interpretation
@@ -121,11 +118,6 @@ Understanding both Type I and Type II errors helps researchers evaluate risks an
 This understanding ensures balanced decision-making, especially in critical fields like medicine, engineering, and business.
 
 ---
-
-## ✅ Conclusion
-
-This document provides detailed explanations of hypothesis testing concepts, helping students and practitioners develop a strong conceptual foundation.
-
 ---
 
 ✍️ **Prepared by:** Ayush Isamaliya
