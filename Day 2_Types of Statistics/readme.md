@@ -47,7 +47,6 @@ Descriptive Statistics   Inferential Statistics
 | **Output** | Tables, charts, averages, and summaries | Probabilities, estimates, and hypothesis tests |
 | **Scope** | Describes what the data shows | Explains what the data implies about a population |
 
-
 ```
 Sample ➜ Analysis ➜ Inference ➜ Decision
 ```

@@ -1,4 +1,7 @@
-# 📊 Inferential Statistics – 
+# 📊 Inferential Statistics – Professional README
+
+This README file contains clear, concise, and exam‑oriented answers to fundamental questions on **Inferential Statistics**. The content is written in simple language with practical examples, suitable for academic submission, viva preparation, or quick revision.
+
 ---
 
 ## Q.1 Define Inferential Statistics in your own words with one real-life example
@@ -115,6 +118,11 @@ Rejecting the null hypothesis means the sample data provides enough evidence to 
 Both hypotheses are needed to make a clear decision framework and ensure objective statistical testing.
 
 ---
+
+## 📌 Conclusion
+
+This README provides a structured and professional explanation of Inferential Statistics concepts using simple language and real‑life examples. It is suitable for assignments, exams, and interview preparation.
+
 ---
 
 ✍️ **Prepared by:** Ayush Isamaliya
