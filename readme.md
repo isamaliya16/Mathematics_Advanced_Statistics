@@ -76,25 +76,25 @@ Understanding vectors, matrices, and eigen concepts used in machine learning alg
 
 | Day | Topic |
 |----|------|
-| Day 1 | [What is Statistics](Day_1_What_is_Statistics) |
-| Day 2 | [Types of Statistics](./Day 2 Types of Statistics) |
-| Day 3 | [Normal Distribution](./Day 3 Normal_Distribution_Skewness_Kurtosis) |
-| Day 4 | [Probability](./Day 4 Probability) |
-| Day 5 | [Random Variable](./Day5_Random_Variable) |
-| Day 6 | [Contingency Tables](./Day6_Contingency_Tables) |
-| Day 7 | [Conditional Probability & Bayes Theorem](./Day7_Conditional_Probability_Bayes_Theorem) |
-| Day 8 | [Inferential Statistics](./Day8_Inferential_Statistics) |
-| Day 9 | [P-value, CI, Critical Value](./Day9_Pvalue_CI_CriticalValue) |
-| Day 10 | [Z-Test](./Day10_Z_Test) |
-| Day 11 | [T-Test](./Day11_T_Test) |
-| Day 12 | [Chi-Square Test](./Day12_Chi_Square_Test) |
-| Day 13 | [ANOVA](./Day13_ANOVA) |
-| Day 14 | [Covariance & Correlation](./Day14_Covariance_Correlation) |
-| Day 15 | [Q-Q Plot](./Day15_QQ_Plot) |
-| Day 16 | [Log Normal Distribution](./Day16_Log_Normal_Distribution) |
-| Day 17 | [Poisson Distribution](./Day17_Poisson_Distribution) |
-| Day 18 | [Vector vs Point](./Day18_Vector_vs_Point) |
-| Day 19 | [Vector Point Distance](./Day19_Vector_Point_Distance) |
-| Day 20 | [Angle Between Vectors](./Day20_Angle_Between_Vectors) |
-| Day 21 | [Eigenvalue & Eigenvector](./Day21_Eigenvalue_Eigenvector) |
-| Day 22 | [SVD, PCA, LDA](./Day22_SVD_PCA_LDA) |
+| Day 1 | [What is Statistics](Day_1_What_is_Statistics_) |
+| Day 2 | [Types of Statistics](Day_2_Types_of_Statistics) |
+| Day 3 | [Normal Distribution](Day_3_Normal_Distribution_Skewness_Kurtosis) |
+| Day 4 | [Probability](Day_4_Probability) |
+| Day 5 | [Random Variable](Day_5_Random_Variable) |
+| Day 6 | [Contingency Tables](Day_6_Contingency_tables&_Joint_Prob_Marginal_Prob) |
+| Day 7 | [Conditional Probability & Bayes Theorem](Day_7_Conditional_Prob_Bayes_Theorem) |
+| Day 8 | [Inferential Statistics](Day_8_Inferential_Statistics) |
+| Day 9 | [P-value, CI, Critical Value](Day_9_Pvalue_CI_CriticalValue) |
+| Day 10 | [Z-Test](Day_10_z-test) |
+| Day 11 | [T-Test](Day_11_t-test) |
+| Day 12 | [Chi-Square Test](Day_12_Chi-Square_Test) |
+| Day 13 | [ANOVA](Day_13_Anova_test) |
+| Day 14 | [Covariance & Correlation](Day_14_Covariance_and_correlation) |
+| Day 15 | [Q-Q Plot](Day_15_Q-Q) |
+| Day 16 | [Log Normal Distribution](Day_16_Log_Normal_distribution) |
+| Day 17 | [Poisson Distribution](Day_17_Poisson_distribution) |
+| Day 18 | [Vector vs Point](Day_18_Linear_Algebra_Vector_vs_Point) |
+| Day 19 | [Vector Point Distance](Day_19_Vector_Point_distance) |
+| Day 20 | [Angle Between Vectors](Day_20_Angle_between_two_Vector) |
+| Day 21 | [Eigenvalue & Eigenvector](Day_21_Eigenvalue_and_Eigenvector) |
+| Day 22 | [SVD, PCA, LDA](Day_22_Eigen_Decomposition__SVD_PCA_LDA) |
