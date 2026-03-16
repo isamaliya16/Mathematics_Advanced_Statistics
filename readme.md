@@ -76,7 +76,7 @@ Understanding vectors, matrices, and eigen concepts used in machine learning alg
 
 | Day | Topic |
 |----|------|
-| Day 1 | [What is Statistics](./Day 1 What is Statistics) |
+| Day 1 | [What is Statistics](Day_1_What_is_Statistics) |
 | Day 2 | [Types of Statistics](./Day 2 Types of Statistics) |
 | Day 3 | [Normal Distribution](./Day 3 Normal_Distribution_Skewness_Kurtosis) |
 | Day 4 | [Probability](./Day 4 Probability) |
